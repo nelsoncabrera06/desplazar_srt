@@ -7,6 +7,7 @@ with desplazar_srt.py you can correct your subtitles time ("\*.srt" Files).
 > python3 desplazar_srt.py 
 
 File path: .../Subtitle.srt
+
 Seconds: 4
 
 It will ask for the file path (example --> File path: /Users/myuser/Documents/mysubtitle.srt) 
